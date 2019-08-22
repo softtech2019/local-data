@@ -1,0 +1,7 @@
+C:\Users\rudph\Documents\Visual Studio 2019\DataProcessor\after\01NewConsoleApp\DataProcessor\obj\Release\DataProcessor.csprojAssemblyReference.cache
+C:\Users\rudph\Documents\Visual Studio 2019\DataProcessor\after\01NewConsoleApp\DataProcessor\obj\Release\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\rudph\Documents\Visual Studio 2019\DataProcessor\after\01NewConsoleApp\DataProcessor\bin\Release\DataProcessor.exe.config
+C:\Users\rudph\Documents\Visual Studio 2019\DataProcessor\after\01NewConsoleApp\DataProcessor\bin\Release\DataProcessor.exe
+C:\Users\rudph\Documents\Visual Studio 2019\DataProcessor\after\01NewConsoleApp\DataProcessor\bin\Release\DataProcessor.pdb
+C:\Users\rudph\Documents\Visual Studio 2019\DataProcessor\after\01NewConsoleApp\DataProcessor\obj\Release\DataProcessor.exe
+C:\Users\rudph\Documents\Visual Studio 2019\DataProcessor\after\01NewConsoleApp\DataProcessor\obj\Release\DataProcessor.pdb
